@@ -1,14 +1,14 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Jaime A.Roque Soulette</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/joshmadakor/">Jaime A.Roque Soulette</a>'s IT and Cybersecurity Project Portfolio 
 
 👋 Hi! I'm Jaime Roque, a Network Technician at Dreyfous with a growing specialization in Cybersecurity and SOC operations. I’m actively developing my skills as a Security Analyst by working through real-world detection and response scenarios on the CyberRange platform. My focus is on threat analysis, log correlation, incident response, and security automation. Here you'll find practical projects and scripts that reflect my journey into Blue Team operations and hands-on defense strategies.
 
 
-## ⚠️ Vulnerability Management Projects
+##  Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+##  Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
