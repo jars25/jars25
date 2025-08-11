@@ -6,7 +6,6 @@
 ##  Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jars25/vmp/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 
 
