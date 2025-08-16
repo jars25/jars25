@@ -4,8 +4,8 @@
 
 .NOTES
     Author          : Jaime Roque 
-    LinkedIn        : linkedin.com/in/joshmadakor/
-    GitHub          : github.com/joshmadakor1
+    LinkedIn        : linkedin.com/in/jars25
+    GitHub          : github.com/jars25
     Date Created    : 2024-09-09
     Last Modified   : 2024-09-09
     Version         : 1.0
@@ -24,8 +24,6 @@
     Example syntax:
     PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
 #>
-
-# YOUR CODE GOES HERE
 
 # Set Application Event Log MaxSize via policy
 $base = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog'
