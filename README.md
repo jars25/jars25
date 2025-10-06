@@ -8,12 +8,13 @@ Here you’ll find a portfolio of projects demonstrating my hybrid skill set acr
 
 ##  Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/jars25/vmp/tree/main)**
+- **[Vulnerability Management Program Implementation](https://github.com/jars25/vmp/tree/main)**  
+  -This project reflects real-world vulnerability lifecycle management practices from detection to remediation
 
 ## 🏥 Cybersecurity Compliance & GRC Projects
 
 - **[Implementing Information Security Policies and HIPAA Compliance at a Small Medical Clinic](https://github.com/jars25/NSU-Cybersecurity-HIPAA-Compliance-Project/tree/main)**  
-  Graduate capstone project focused on aligning a small medical clinic’s information security posture with HIPAA, NIST CSF, and ISO 27001 standards.  
+  -Graduate capstone project focused on aligning a small medical clinic’s information security posture with HIPAA, NIST CSF, and ISO 27001 standards.  
   Includes executive report, risk assessment, business continuity plan, and security policy documentation.
 
 
