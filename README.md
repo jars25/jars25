@@ -1,6 +1,9 @@
 # <a href="https://www.linkedin.com/in/joshmadakor/">Jaime A.Roque Soulette</a>'s IT and Cybersecurity Projects Portfolio 
 
-👋 Hi! I'm Jaime Roque, a Network Technician at Dreyfous with a growing specialization in Cybersecurity and SOC operations. I’m actively developing my skills as a Security Analyst by working through real-world detection and response scenarios on the CyberRange platform. My focus is on threat analysis, log correlation, incident response, and security automation. Here you'll find practical projects and scripts that reflect my journey into Blue Team operations and hands-on defense strategies.
+👋👋 Hi! I'm Jaime Roque Soulette — a bilingual IT and Cybersecurity professional with hands-on experience in networking, field support, and systems administration, now transitioning into Governance, Risk, and Compliance (GRC).  
+I hold a Master’s in Cybersecurity Management from Nova Southeastern University, where I led a HIPAA-aligned security compliance project focused on policy development, risk mitigation, and business continuity for small medical environments.  
+My technical foundation in network infrastructure and IT operations gives me the ability to bridge the gap between technical controls and organizational governance. I’m passionate about helping companies strengthen their security posture through frameworks such as **NIST CSF, ISO 27001, and HIPAA**, blending both hands-on IT knowledge and strategic cybersecurity management.  
+Here you’ll find a portfolio of projects demonstrating my hybrid skill set across **technical security operations**, **vulnerability management**, and **GRC consulting**.
 
 
 ##  Vulnerability Management Projects
