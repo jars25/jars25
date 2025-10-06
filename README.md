@@ -15,7 +15,14 @@ Here you’ll find a portfolio of projects demonstrating my hybrid skill set acr
 
 - **[Implementing Information Security Policies and HIPAA Compliance at a Small Medical Clinic](https://github.com/jars25/NSU-Cybersecurity-HIPAA-Compliance-Project/tree/main)**  
   -Graduate capstone project focused on aligning a small medical clinic’s information security posture with HIPAA, NIST CSF, and ISO 27001 standards.  
-  Includes executive report, risk assessment, business continuity plan, and security policy documentation.
+  -Includes executive report, risk assessment, business continuity plan, and security policy documentation.
+
+## 🧰 STIG Compliance Projects
+
+- **[Windows 10 STIG Remediation Project](https://github.com/jars25/jars25/tree/main/STIGS)**  
+  -Applied DISA STIG controls to enhance Windows 10 system hardening and reduce vulnerability exposure.  
+  -This project demonstrates the remediation of specific audit and user account vulnerabilities following DoD compliance benchmarks.
+
 
 
 
